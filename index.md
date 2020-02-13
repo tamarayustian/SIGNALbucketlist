@@ -1,15 +1,14 @@
-
 <!DOCTYPE html>
 <html>
 <head lang="en">
     <meta charset="UTF-8">
 
     <!--Page Title-->
-    <title>AYW Winter Bucket List</title>
+    <title>SIGNAL Bucket List</title>
 
     <!--Meta Keywords and Description-->
-    <meta name="keywords" content="AYW">
-    <meta name="description" content="AYW Winter Bucket List">
+    <meta name="keywords" content="SIGNAL">
+    <meta name="description" content="SIGNAL Bucket List">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no"/>
 
     <!--Favicon-->
